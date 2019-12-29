@@ -1,5 +1,4 @@
 # COMPUTER-SERVICES-INITIATIVES
-PUBLIC SERVICES
-<h>Les initiation de ce projet</h>
-
-<p>prendres tous les application en Informatique</p>
+ALL SERVICES ARE DONE INSIDE
+<h>PLANIFICATIN OF PROJECT</h>
+<h>COMPUTER REPAIR</h>
