@@ -1,9 +1,9 @@
 # COMPUTER-SERVICES-INITIATIVES
 ALL SERVICES ARE DONE INSIDE
 <h1>PLANIFICATIN OF PROJECT</h1>
-<ol>
-  <ul> Computer Reparing
-  <ul> Web Designation
-  <ul> Copies Ranimation
-  <ol>
+<ul>
+  <ol>Computer Reparing
+  <ol>Web Designation
+  <ol>Copies Ranimation
+  <ul>
 <h2>COMPUTER REPAIR</h2>
