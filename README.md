@@ -8,7 +8,7 @@ ALL SERVICES ARE DONE INSIDE
   <ul>
 <h2>COMPUTER REPAIR</h2>
     <ol>
-    <li>Maitening 
-    <li> software
-    <li> reparing 
+    <li>Maintening 
+    <li> Software
+    <li> Reparing 
     </ol>
